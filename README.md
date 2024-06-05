@@ -1,2 +1,2 @@
 # Games Using Python
- Python fun games for improving python skills.
+ These Python fun games are made by me, Python games for improving python skills.
